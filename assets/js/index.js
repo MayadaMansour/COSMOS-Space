@@ -19,10 +19,8 @@ document.addEventListener("DOMContentLoaded", () => {
       if (sectionId === "planets") getPlanets();
     });
   });
-
   showSection("today-in-space");
   getTodaySpace();
-
   const res = "";
   const data = "";
 
